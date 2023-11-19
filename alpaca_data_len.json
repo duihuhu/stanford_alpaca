@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "Give three tips for staying healthy.",
+        "input": "",
+        "output": "15"
+    },
+    {
+        "instruction": "What are the three primary colors?",
+        "input": "",
+        "output": "20"
+    },
+    {
+        "instruction": "Describe the structure of an atom.",
+        "input": "",
+        "output": "50"
+    },
+    {
+        "instruction": "How can we reduce air pollution?",
+        "input": "",
+        "output": "12."
+    },
+    {
+        "instruction": "Describe a time when you had to make a difficult decision.",
+        "input": "",
+        "output": "120"
+    }
+]
